@@ -1,0 +1,20 @@
+* {
+    color:rgb(192, 36, 158) ;
+    text-decoration: underline;
+}
+
+
+img{
+    border-radius: 5px
+}
+
+.title{
+    color: salmon;
+    font-size: 30px;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.italic{
+    font-style:italic;
+}

@@ -1,0 +1,11 @@
+.image{
+    width: 100%;
+    height: auto;
+}
+
+/* hover effect */
+
+.image:hover{
+    translate: 10px 0px;
+    transition: all 0.3s ease;
+}

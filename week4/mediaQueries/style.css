@@ -1,0 +1,53 @@
+/* body{
+    background-color: #ac3c3c;
+    font-family: Arial, sans-serif;
+} */
+
+
+@media only screen and (min-width: 1400px){
+    .box{
+        background-color: #ff4747;
+        width: 1300px;
+        height: 1000px;
+    } 
+
+    .custom{
+        background-color: #ff4747;
+        width: 1300px;
+        height: 1000px;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px){
+    .box{
+        background-color: #ffd23f;
+        width: 1000px;
+        height: 800px;
+    } 
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .box{
+        background-color: #313bca;
+        width: 800px;
+        height: 600px;
+    } 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    .box{
+        background-color: #299e4a;
+        width: 600px;
+        height: 400px;
+    } 
+}
+
+@media only screen and (max-width: 768px){
+    .box{
+        background-color: #bdbdbd;
+        width: 400px;
+        height: 200px;
+    } 
+}
